@@ -12,7 +12,7 @@ SamProxy is a Chrome extension that allows users to easily toggle a SOCKS5 proxy
 1. Download the extension files or clone the repository:
 
     ```bash
-    git clone https://github.com/MeysamRezazadeh/sam-proxy.git
+    git clone https://github.com/MeysamRezazadeh/samproxy-socks5-extension.git
     ```
 
 2. Open Google Chrome and navigate to `chrome://extensions/`.
